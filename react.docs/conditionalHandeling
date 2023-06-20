@@ -1,0 +1,12 @@
+// function App() {
+//   const [input, setInput] = useState()
+//   const [items, setItems] = useState(photos);
+//   const [isCollapsed, collapse] = useState(false);
+//   const toggle = () => collapse(!isCollapsed);
+//   const handleOnChange = (e) => setInput(e.target.value)
+//   const handleOnSubmit = (e) => {
+//     e.preventDefault()
+//     setItems([input,...items])}
+//     return(
+
+//     )
